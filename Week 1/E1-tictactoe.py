@@ -7,7 +7,6 @@ bk = []
 for key in B:
     bk.append(key)
  
- 
 def printB(X):
     print(X['7'] + '|' + X['8'] + '|' + X['9'])
     print('-+-+-')
